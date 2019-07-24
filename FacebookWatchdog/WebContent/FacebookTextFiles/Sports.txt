@@ -1,0 +1,372 @@
+sport
+sports
+sporting
+kabaddi
+ranji
+trophy
+match
+team
+game
+khel
+aerobics
+archer
+archery
+arena
+arrow
+athlete
+athletics
+axel
+badminton
+ball
+base
+baseball
+basketball
+basket ball
+bat
+baton
+batter
+batting
+biathlon
+bicycle
+bicycling
+bike
+biking
+billiards
+bobsleigh
+bocce
+boomerang
+boules
+bow
+bowler
+bowling
+boxer
+boxing
+bronze medal
+bronzemedal
+bunt
+canoe
+canoeing
+catch
+catcher
+champion
+championship
+cleats
+club
+coach
+compete
+competing
+competition
+competitor
+crew
+cricket
+croquet
+cross country
+crosscountry
+cue
+curling
+cycle
+cycling
+cyclist
+dart
+dartboard
+deadlifting
+decathlon
+defense
+diamond
+discus
+dive
+diver
+diving
+dodgeball
+doubleheader
+dugout
+epee
+equestrian
+equipment
+exercise
+fencing
+field
+fielder
+field hockey
+fielding
+figure skating
+fitness
+football
+forward
+free throw
+frisbee
+game
+gear
+geocaching
+goal
+goalie
+gold medal
+golf
+golfer
+golfing
+guard
+gym
+gymnast
+gymnastics
+gymnasium
+halftime
+hammer throw
+hammerthrow
+handball
+hang gliding
+hanggliding
+hardball
+helmet
+heptathlon
+high jump
+highjump
+hitter
+hockey
+hole-in-one
+home
+home plate
+home run
+home team
+hometeam
+hoop
+horseshoes
+huddle
+hurdle
+ice hockey
+icehockey
+ice rink
+icerink
+ice skates
+iceskates
+ice skating
+iceskating
+infield
+infielder
+inline skates
+inlineskates
+inning
+indian premier league
+indianpremierleague
+ipl
+jai-alai
+javelin
+jog
+jogger
+judo
+jump
+jumper
+jumping
+jump rope
+jumprope
+karate
+kayak
+kayaker
+kayaking
+kickball
+kneepads
+king fu
+kingfu
+kite
+lacrosse
+lawn bowling
+lawnbowling
+league
+long jump
+longjump
+lose
+loser
+luge
+lutz
+major league
+majorleague
+mallet
+martial arts
+mat
+medal
+minor league
+minorleague
+mitt
+mouthguard
+move
+movement
+net
+no-hitter
+nordic skiing
+offense
+ollie
+olympics
+olympic
+athletic
+athletics
+orienteering
+out
+outfield
+outfielder
+paddle
+paddleball
+paddling
+paintball
+parasailing
+parkour
+pentathlon
+pickleball
+ping pong
+pingpong
+pitch
+pitcher
+play
+player
+playing
+playoffs
+pogo stick
+pole
+pole vault
+polevault
+polo
+pool
+puck
+quarter
+quarterback
+quiver
+race
+racer
+racewalking
+race walking
+racing
+racket
+racquetball
+rafting
+referee
+relay
+ride
+riding
+rink
+rock climbing
+rockclimbing
+roller skates
+rollerskates
+roller skating
+rollerskating
+row
+rower
+rowing
+rugby
+run
+runner
+running
+sailing
+score
+scoreboard
+scuba
+scull
+sculling
+shortstop
+shot put
+silver medal
+skate
+skating rink
+skatingrink
+skeleton
+ski
+skier
+skiing
+slalom
+sled
+sledder
+sledding
+snorkling
+snowboard
+snowboarder
+snowboarding
+snowshoeing
+soccer
+softball
+somersault
+speed skating
+speedskating
+sport
+sportsmanship
+squash
+stadium
+stick
+strike
+stroke
+sumo wrestling
+sumowrestling
+surfer
+surfing
+swim
+swimmer
+swimming
+synchronized swimming
+synchronizedswimming
+table tennis
+tabletennis
+taekwondo
+tag
+target
+team
+teammate
+tee
+telemark skiing
+tennis
+tetherball
+throw
+throwing
+tie
+toboggan
+track and field
+trackandfield
+trampoline
+triathlon
+triathlete
+triple jump
+triplejump
+triple play
+tripleplay
+tug of war
+ultramarathon
+ultramarathoner
+marathon
+umpire
+unicycle
+unicyclist
+uniform
+vault
+vaulter
+vaulting
+visiting team
+volley
+volley ball
+volleyball
+wakeboarding
+walk
+walker
+walking
+water polo
+waterpolo
+waterski
+waterskier
+water skier
+waterskiing
+weightlifter
+weight lifter
+weightlifting
+weight lifting
+weights
+wetsuit
+white water rafting
+wicket
+win
+windsurfer
+wind surfer
+windsurfing
+wind surfing
+winner
+winning
+world cup
+worldcup
+world series
+worldseries
+wrestler
+wrestling
